@@ -128,7 +128,6 @@ npm run dev
 - **Backend:** Node.js, Express.js,MongoDB, JWT, Passport
 - **Email:** Mailtrap
 - **Frontend:** React.js
-- **Dashboard:** Admin template
 
 ---
 
