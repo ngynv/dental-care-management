@@ -134,4 +134,4 @@ npm run dev
 
 ## 📬 Contact
 
-For feedback or issues, please contact: [vanvu110404@gmail.com]
+For feedback or issues, please contact: [ngynttvy@gmail.com]
