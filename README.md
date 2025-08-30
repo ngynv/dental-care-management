@@ -82,9 +82,9 @@ Cloud Storage: Cloudinary
 
 ## 📄 Patient History Screen
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/689d3284-9c17-4a70-8160-b377664feb01" width="500" />
+  <img src="https://github.com/user-attachments/assets/689d3284-9c17-4a70-8160-b377664feb01" width="450" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/92e53a0b-19dd-4262-be20-d976aa884c36" width="500" />
+  <img src="https://github.com/user-attachments/assets/92e53a0b-19dd-4262-be20-d976aa884c36" width="450" />
 </p>
 
 
