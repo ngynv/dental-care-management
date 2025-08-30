@@ -84,7 +84,7 @@ Cloud Storage: Cloudinary
 <p align="center"> 
   <img src="https://github.com/user-attachments/assets/689d3284-9c17-4a70-8160-b377664feb01" width="400" /> 
 </p>
-</br>
+<p align="center"> 
    <img src="https://github.com/user-attachments/assets/92e53a0b-19dd-4262-be20-d976aa884c36" width="400" /> 
 </p>
 
