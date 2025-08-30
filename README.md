@@ -47,12 +47,12 @@ Cloud Storage: Cloudinary
 
 ## 🔐 Login Screen
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0983dfa1-eaaf-487f-b267-f52d0d7b3961" width="450" />
+  <img src="https://github.com/user-attachments/assets/0983dfa1-eaaf-487f-b267-f52d0d7b3961" width="550" />
 </p>
 
 ## 📝 Register Screen
 <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/24623bd7-1cf3-496c-b462-80fc5bb0231b" width="450" /> 
+  <img src="https://github.com/user-attachments/assets/24623bd7-1cf3-496c-b462-80fc5bb0231b" width="550" /> 
 </p>
 
 ## 🧾 Appointment Booking Screen
