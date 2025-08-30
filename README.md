@@ -81,17 +81,12 @@ Cloud Storage: Cloudinary
 </p>
 
 ## 📄 Patient History Screen
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/689d3284-9c17-4a70-8160-b377664feb01" width="400" />
-    </td>
-    <td width="20"></td> <!-- khoảng cách 20px -->
-    <td>
-      <img src="https://github.com/user-attachments/assets/92e53a0b-19dd-4262-be20-d976aa884c36" width="400" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/689d3284-9c17-4a70-8160-b377664feb01" width="400" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/92e53a0b-19dd-4262-be20-d976aa884c36" width="400" />
+</p>
+
 
 # 📬 Contact
 For feedback or issues, please contact: [ngynttvy@gmail.com]
